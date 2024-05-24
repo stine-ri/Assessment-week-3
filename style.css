@@ -19,7 +19,7 @@
 }
 
 .country-card {
-    background-color: #2b3945;
+    background-color: grey;
     border-radius: 5px;
     overflow: hidden;
     width: calc(25% - 20px); 
